@@ -34,9 +34,7 @@ See the package [changelog](R/cgdgarch/NEWS.md) for the full history.
 |---|---|
 | Package overview, examples and API guide | [R/cgdgarch/README.md](R/cgdgarch/cgdgarch_README.md) |
 | Source code and `DESCRIPTION` | [R/cgdgarch/](R/cgdgarch/) |
-| Release history | [R/cgdgarch/NEWS.md](R/cgdgarch/NEWS.md) |
 | Source release archive | [R/cgdgarch/cgdgarch.tar.gz](R/cgdgarch/cgdgarch.tar.gz) |
-| Detailed installation guide | [R/cgdgarch/docs/INSTALLATION.md](R/cgdgarch/docs/INSTALLATION.md) |
 
 To install the included source archive locally (with an appropriate
 R/C++ toolchain):
