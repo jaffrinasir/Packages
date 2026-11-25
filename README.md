@@ -32,7 +32,7 @@ See the package [changelog](R/cgdgarch/NEWS.md) for the full history.
 
 | Resource | Location |
 |---|---|
-| Package overview, examples and API guide | [R/cgdgarch/README.md](R/cgdgarch/README.md) |
+| Package overview, examples and API guide | [R/cgdgarch/README.md](R/cgdgarch/cgdgarch_README.md) |
 | Source code and `DESCRIPTION` | [R/cgdgarch/](R/cgdgarch/) |
 | Release history | [R/cgdgarch/NEWS.md](R/cgdgarch/NEWS.md) |
 | Source release archive | [R/cgdgarch/cgdgarch.tar.gz](R/cgdgarch/cgdgarch.tar.gz) |
